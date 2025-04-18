@@ -13,7 +13,7 @@ videos from Instagram may violate their Terms of Service. Please respect
 copyright laws and the platform's policies. Use this tool responsibly and only
 for content you have the right to download.
 
-Website Preview: [gram-grabberz.vercel.app](https://gram-grabberz.vercel.app)
+Website Preview: [gram-grabberz.vercel.app](https://snapiinsta.app/)
 
 ![website preview](https://github.com/user-attachments/assets/74e5db68-b5b5-425b-8734-81bbaedeb3c4)
 
